@@ -1,0 +1,8 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/TestNewFeatures/UI/TestNewFeaturesUI.uss?fileID=7433441132597879392&amp;guid=08f0628d6869ecd46864b0ccde532b5d&amp;type=3#TestNewFeaturesUI" />
+    <ui:VisualElement style="flex-shrink: 1; flex-grow: 1;">
+        <ui:VisualElement style="flex-grow: 1; flex-shrink: 1; background-color: rgb(91, 91, 91); margin-top: 300px; margin-right: 500px; margin-bottom: 300px; margin-left: 500px;">
+            <ui:ScrollView style="color: rgb(255, 255, 255); font-size: 18px;" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>
