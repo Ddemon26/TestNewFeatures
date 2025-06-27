@@ -1,6 +1,3 @@
-using UnityEngine;
-using UnityEngine.UIElements;
-
 public class TestNewFeaturesUI : MonoBehaviour
 {
     [SerializeField] UIDocument m_uiDocument;
